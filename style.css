@@ -1,6 +1,6 @@
-div {
-    width: 100px; 
-    height: 100px; 
-    border: 1px solid black;
-    background-color: green;
-}
+ td {
+    border: 1px solid #ec7e00;
+    padding: 15px;
+    text-align: center;
+    color: #000000;
+  }
